@@ -92,15 +92,24 @@ a{
         transform: translate(-50%,-50%);
       }
       /* Project management */
-      .project-management{
-        /* padding: 140px 0; */
-      }
+      /* .project-management{
+        padding-top: 240px ;
+      } */
       .project-management img{
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 50%;
       }
+      
+     .padding{
+        padding:240px 0px 0px 0px !important ;
+        /* padding-bottom:0 !important ; */
+
+     }
+     .custom-management h3{
+        font-size: 30px;
+     }
 }
 
 body{
@@ -178,7 +187,12 @@ body{
     font-size: 3.5rem;
 font-weight: 501;
 }
-
+/* .extension-management{
+    padding: 280px 0;
+} */
+.custom-management{
+    padding: 280px 0;
+}
 
 
 
