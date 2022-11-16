@@ -91,6 +91,16 @@ a{
         top: 50%;
         transform: translate(-50%,-50%);
       }
+      /* Project management */
+      .project-management{
+        /* padding: 140px 0; */
+      }
+      .project-management img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
 }
 
 body{
